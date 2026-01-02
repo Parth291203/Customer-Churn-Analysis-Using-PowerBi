@@ -1,2 +1,1 @@
-# Customer-Churn-Analysis-Using-PowerBi
-dfghjkl;
+An interactive Power BI dashboard analyzing customer churn using demographics, tenure, monthly charges, and service usage. The project highlights key churn drivers, customer segments, and actionable insights to support retention strategies and data-driven decision-making.
